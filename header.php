@@ -31,7 +31,7 @@ else $loggedin = FALSE;
 	{
 		echo 
 		"<br><ul class=menu'>" . 
-		"<li><a href="members.php?view=$user">Home</a></li>" .
+		"<li><a href='members.php?view=$user'>Home</a></li>" .
 		"<li><a href=""></a></li>" .
 		"<li><a href=""></a></li>" .
 		"<li><a href=""></a></li>" .
